@@ -27,7 +27,7 @@
 
 						<!-- Div Picture-->
 						<div class="moto-widget moto-widget-image moto-preset-5" >
-                            <a class="moto-widget-image-link" href="store/product/all-day-uv-moisture-cream-spf-15/index.html">
+                            <a class="moto-widget-image-link" href="search/request.php?q=<?php echo '#'; ?>">
                                 
                                 <!-- Picture -->
                                 <img data-src="img/mt-1314_product_img01.jpg" class="moto-widget-image-picture lazyload">
@@ -42,7 +42,7 @@
                     	<!-- Ends -->
                          
 						<!-- Product's Name-->
-                        	<a href="store/product/all-day-uv-moisture-cream-spf-15/index.html" class="moto-widget-store-main_item-title ">
+                        	<a href="search/request.php?q=<?php echo '#'; ?>" class="moto-widget-store-main_item-title ">
                             <span class="moto-text_212">All Day UV Moisture Cream SPF 15</span>
                         	</a>
                         <!-- End -->
@@ -86,7 +86,7 @@
 
 						<!-- Div Picture-->
 						<div class="moto-widget moto-widget-image moto-preset-5" >
-                            <a class="moto-widget-image-link" href="store/product/all-day-uv-moisture-cream-spf-15/index.html">
+                            <a class="moto-widget-image-link" href="search/request.php?q=<?php echo '#'; ?>">
                                 
                                 <!-- Picture -->
                                 <img data-src="img/mt-1314_product_img01.jpg" class="moto-widget-image-picture lazyload">
@@ -101,7 +101,7 @@
                     	<!-- Ends -->
                          
 						<!-- Product's Name-->
-                        	<a href="store/product/all-day-uv-moisture-cream-spf-15/index.html" class="moto-widget-store-main_item-title ">
+                        	<a href="search/request.php?q=<?php echo '#'; ?>" class="moto-widget-store-main_item-title ">
                             <span class="moto-text_212">All Day UV Moisture Cream SPF 15</span>
                         	</a>
                         <!-- End -->
@@ -146,7 +146,7 @@
 
 						<!-- Div Picture-->
 						<div class="moto-widget moto-widget-image moto-preset-5" >
-                            <a class="moto-widget-image-link" href="store/product/all-day-uv-moisture-cream-spf-15/index.html">
+                            <a class="moto-widget-image-link" href="search/request.php?q=<?php echo '#'; ?>">
                                 
                                 <!-- Picture -->
                                 <img data-src="img/mt-1314_product_img01.jpg" class="moto-widget-image-picture lazyload">
@@ -161,7 +161,7 @@
                     	<!-- Ends -->
                          
 						<!-- Product's Name-->
-                        	<a href="store/product/all-day-uv-moisture-cream-spf-15/index.html" class="moto-widget-store-main_item-title ">
+                        	<a href="search/request.php?q=<?php echo '#'; ?>" class="moto-widget-store-main_item-title ">
                             <span class="moto-text_212">All Day UV Moisture Cream SPF 15</span>
                         	</a>
                         <!-- End -->
@@ -214,7 +214,7 @@
 
 						<!-- Div Picture-->
 						<div class="moto-widget moto-widget-image moto-preset-5" >
-                            <a class="moto-widget-image-link" href="store/product/all-day-uv-moisture-cream-spf-15/index.html">
+                            <a class="moto-widget-image-link" href="search/request.php?q=<?php echo '#'; ?>">
                                 
                                 <!-- Picture -->
                                 <img data-src="img/mt-1314_product_img01.jpg" class="moto-widget-image-picture lazyload">
@@ -225,7 +225,7 @@
                     	<!-- Ends -->
                          
 						<!-- Product's Name-->
-                        	<a href="store/product/all-day-uv-moisture-cream-spf-15/index.html" class="moto-widget-store-main_item-title ">
+                        	<a href="search/request.php?q=<?php echo '#'; ?>" class="moto-widget-store-main_item-title ">
                             <span class="moto-text_212">All Day UV Moisture Cream SPF 15</span>
                         	</a>
                         <!-- End -->
@@ -265,7 +265,7 @@
 
 						<!-- Div Picture-->
 						<div class="moto-widget moto-widget-image moto-preset-5" >
-                            <a class="moto-widget-image-link" href="store/product/all-day-uv-moisture-cream-spf-15/index.html">
+                            <a class="moto-widget-image-link" href="search/request.php?q=<?php echo '#'; ?>">
                                 
                                 <!-- Picture -->
                                 <img data-src="img/mt-1314_product_img01.jpg" class="moto-widget-image-picture lazyload">
@@ -276,7 +276,7 @@
                     	<!-- Ends -->
                          
 						<!-- Product's Name-->
-                        	<a href="store/product/all-day-uv-moisture-cream-spf-15/index.html" class="moto-widget-store-main_item-title ">
+                        	<a href="search/request.php?q=<?php echo '#'; ?>" class="moto-widget-store-main_item-title ">
                             <span class="moto-text_212">All Day UV Moisture Cream SPF 15</span>
                         	</a>
                         <!-- End -->
@@ -316,7 +316,7 @@
 
 						<!-- Div Picture-->
 						<div class="moto-widget moto-widget-image moto-preset-5" >
-                            <a class="moto-widget-image-link" href="store/product/all-day-uv-moisture-cream-spf-15/index.html">
+                            <a class="moto-widget-image-link" href="search/request.php?q=<?php echo '#'; ?>">
                                 
                                 <!-- Picture -->
                                 <img data-src="img/mt-1314_product_img01.jpg" class="moto-widget-image-picture lazyload">
@@ -327,7 +327,7 @@
                     	<!-- Ends -->
                          
 						<!-- Product's Name-->
-                        	<a href="store/product/all-day-uv-moisture-cream-spf-15/index.html" class="moto-widget-store-main_item-title ">
+                        	<a href="search/request.php?q=<?php echo '#'; ?>" class="moto-widget-store-main_item-title ">
                             <span class="moto-text_212">All Day UV Moisture Cream SPF 15</span>
                         	</a>
                         <!-- End -->
